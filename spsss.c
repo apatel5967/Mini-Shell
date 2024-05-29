@@ -1,8 +1,4 @@
-/*Ayush Patel, 118678191, I pledge on my honor that I have not given or received
-# any unauthorized assistance on this examination or assignment.
-#
-#
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
