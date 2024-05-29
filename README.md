@@ -14,4 +14,4 @@ for fail.
 # test_program:
 This code looks at the tests stored in struct from the previous function and runs the tests on each file. Even if a test fails, the code runs to test all of the remaining commands, since they could still run properly. The function returns the number of tests that were successful after running.
 
-There is also a function to clear any memory needed.
+There is also a function to clear any memory not being used.
